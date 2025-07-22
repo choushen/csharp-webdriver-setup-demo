@@ -17,7 +17,6 @@ Excludes Visual Studio and related build artefacts for a cleaner repository
    ```bash
    git clone <repository-url>
    cd Auto101Selenium
-````
 
 2. **Download EdgeDriver**
    Download the matching driver from:
